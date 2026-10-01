@@ -35,4 +35,15 @@ screenshots/                       dashboard previews
 
 ## Notes
 - Percentages on the pie and doughnut are shares of the displayed Top N items, not of all sales.
-- <!-- TODO: add a note here about data coverage of the latest months after verifying order counts per month -->
+
+## Contact
+
+**Karthikeyan Govindaraj**  
+Data Analyst | Power BI Developer
+
+📧 Email: karthikeyan0001607@gmail.com  
+💼 LinkedIn: [Karthikeyan Govindaraj](https://www.linkedin.com/in/karthikeyan-govindaraj-dataanalyst/)  
+💻 GitHub: [Karthikeyan00045](https://github.com/Karthikeyan00045)  
+🌐 Portfolio: [Data Analyst Portfolio](https://karthikeyan-govindaraj-data-analyst.netlify.app/)
+
+Open to opportunities in **Data Analytics, Power BI, SQL, BI Reporting, and SSRS**.
